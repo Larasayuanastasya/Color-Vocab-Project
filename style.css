@@ -1,0 +1,15 @@
+
+p{color: rgb(88, 137, 210);}
+
+.Grey{color: gray;}
+
+p[value="3"]{color: plum;}
+
+#id-selector-demo{color: burlywood;}
+
+.Green{color: green;}
+
+*{
+    text-align: left;
+    font-weight: normal;
+}
